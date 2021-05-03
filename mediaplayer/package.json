@@ -1,0 +1,16 @@
+{
+  "name": "edgarpechmediaplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MediaPlayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Edgar Pech <edgaropech@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
